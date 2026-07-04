@@ -1,6 +1,6 @@
-﻿# AZ-Net
+# AZ-Net
 
-Version: 0.1.2
+Version: 0.1.3
 
 Lightweight AZ browser with local profiles, low-RAM defaults, tabbed browsing, and unpacked Chrome extension support.
 
