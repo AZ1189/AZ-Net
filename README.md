@@ -1,7 +1,8 @@
-# AZ-Net
+﻿# AZ-Net
 
-Version: 0.1.3
+Version: 0.1.4
 
 Lightweight AZ browser with local profiles, low-RAM defaults, tabbed browsing, and unpacked Chrome extension support.
 
 Installers are published in GitHub Releases for AZ Manager.
+
