@@ -1,8 +1,10 @@
-﻿# AZ-Net
+# AZ-Net Installer
 
-Version: 0.1.4
+Public installer-only repository for AZ-Net.
 
-Lightweight AZ browser with local profiles, low-RAM defaults, tabbed browsing, and unpacked Chrome extension support.
+Version: 1.0.1
+Installer: AZ-Net-Setup.exe
+Release notes: Version 1.0.1. Updates the installer usage notice to list only the usage totals and sign-in account link that AZ apps save, rebuilds the signed installer, and keeps source code local-only.
+SHA-256: B93FE5050DFA7B40CC425353E6CF80D77474B63DEABF6C5545D94227D3E36BA8
 
-Installers are published in GitHub Releases for AZ Manager.
-
+Source code stays local-only and is not published in this repository.
