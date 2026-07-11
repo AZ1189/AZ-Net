@@ -2,9 +2,9 @@
 
 Public installer-only repository for AZ-Net.
 
-Version: 1.0.3
+Version: 1.0.4
 Installer: AZ-Net-Setup.exe
-Release notes: Version 1.0.3. Adds Light, Dark, and System theme controls to the Settings ribbon area across AZ apps, with refreshed installer-only GitHub releases and source code kept local-only.
-SHA-256: 895DA08AC152C0A5037672D13C6534EB36BD8EA2E9B70C623D70C47524A94ADA
+Release notes: Version 1.0.4. Publishes the next +0.0.1 installer refresh for all AZ apps so AZ Manager can fetch current builds, with installer-only GitHub releases and source code kept local-only.
+SHA-256: 29884BCD65CF2C518C37A3C414EC2369B1836EC1AE74863F5A1A67E05F85374B
 
 Source code stays local-only and is not published in this repository.
